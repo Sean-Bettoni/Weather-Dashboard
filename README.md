@@ -1,7 +1,7 @@
 # Weather-Dashboard
 A weather dashboard with dynamically updating HTML and CSS determined by the search input.
 
-Web URL: 
+Web URL: https://sean-bettoni.github.io/Weather-Dashboard/
 Repository URL: https://github.com/Sean-Bettoni/Weather-Dashboard
 
 In this application the user can type a cities name in the search box and click the magnifying glass button to search for weather data provided by the openweathermap API. Once searched the results will appear to the right of the search box with information about the date, temperature, humidity, wind speed and UV index accompanied by a weather icon for the day (overcast clouds, sunny with clouds ect).
